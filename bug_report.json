@@ -1,1 +1,15 @@
-
+{
+    "id":"01",
+    "summary":"payment button is not clickable",
+    "project":"secret programm",
+    "version":"007",
+    "severity":"S1",
+    "priority":"P1",
+    "status":"new",
+    "author":"Yana",
+    "assignedTo":"developer №1",
+    "steps to Reproduce":"click click click",
+    "result":"payment button is not clickable",
+    "expectedResult":"payment button is clickable",
+    "attachment":"screen.jpg"
+}
